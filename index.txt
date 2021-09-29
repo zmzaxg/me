@@ -1,0 +1,211 @@
+<!doctype html>
+<!DOCTYPE html><html class="no-js" lang="zh_CN"><head><meta charset="utf-8">
+    <title>zmzaxg | 南凝呀</title>
+	<meta name="keywords" content="zmzaxg,南凝呀,nnya,zmzaxg.top,me.zmzaxg">
+	<meta name="description" content="一个平平不奇的个人主页，难在Ta看不见，哈哈哈。">
+	<meta property="og:locale" content="zh_CN">
+    <meta property="og:type" content="article">
+    <meta property="og:site_name" content="zmzaxgTeam">
+    <meta property="og:title" content="zmzaxg-南凝呀-个人主页">
+    <meta property="og:url" content="https://me.zmzaxg.top/">
+    <meta property="og:image" content="img/logo.png">
+    	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="author" content="me.zmzaxg.top">
+	<meta name="location" content="province=香港;city=旺角;coord=22.31303352153805,114.17699200859833">
+	<meta http-equiv="Cache-Control" content="no-transform">
+	<meta http-equiv="Cache-Control" content="no-siteapp">
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+	<link href="https://cdn.bootcdn.net/ajax/libs/font-awesome/5.3.1/css/all.min.css" rel="stylesheet">
+	<!-- <link rel="canonical" href="https://www.mfisp.com"> -->
+	<link rel="stylesheet" href="css/bootsnav.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/aos.css">
+	<link rel="stylesheet" href="css/animate.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/joker.css">
+	<link rel="stylesheet" href="css/responsive.css">
+	
+</head>
+<body>
+	
+	
+	<div class="pricing-tables padding-top50 padding-bottom50">
+		<div class="custom-width">
+			<div class="row">
+				<div class="main-title text-center">
+					<h2>zmzaxg</h2>
+					<p>Hi there 👋</p>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<div class="price">有关我的域名</div>
+					<div class="table mobile-margin-bottom">
+						<div class="table-content">
+							<h4 title="还有来凑热闹~">域名</h4>
+							<div class="table-list">
+								<ul>
+									<li><i data-aos="zoom-in" class="fa fa-plus"></i>zmzaxg.top  这个以后再搞吧</li>
+									<li><i data-aos="zoom-in" class="fa fa-plus"></i>论坛：bbs.zmzaxg.top</li>
+									<li><i data-aos="zoom-in" data-aos-delay="50" class="fa fa-plus"></i>个人主页：me.zmzaxg.top</li>
+									<li><i data-aos="zoom-in" data-aos-delay="100" class="fa fa-plus"></i>Team：team.zmzaxg.top</li>
+									<li><i data-aos="zoom-in" data-aos-delay="150" class="fa fa-plus"></i>就一个平平不奇的小前端</li>
+									<li><i data-aos="zoom-in" data-aos-delay="200" class="fa fa-plus"></i>邮箱：123456@zmzaxg.top</li>
+								</ul>
+							</div>
+							<!--div class="buttons">
+								<a href="https://my.mfisp.com/cart.php?a=add&amp;pid=662" class="btn btn-gray btn-medium">立即购买</a>
+							</div-->
+						</div>
+					</div>
+				</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<!--<div class="price">￥99 元/月</div>
+					<div class="table mobile-margin-bottom">
+						<div class="table-content">
+							<h4 title="香港云主机-HKMFVP0202A">HKMFVP0202A</h4>
+							<div class="table-list">
+								<ul>
+									<li><i data-aos="zoom-in" class="fa fa-plus"></i>机房：香港vps</li>
+									<li><i data-aos="zoom-in" class="fa fa-plus"></i>CPU：E5-2650 2核</li>
+									<li><i data-aos="zoom-in" data-aos-delay="50" class="fa fa-plus"></i>内存：REG 2G</li>
+									<li><i data-aos="zoom-in" data-aos-delay="100" class="fa fa-plus"></i>硬盘：SSD 50G</li>
+									<li><i data-aos="zoom-in" data-aos-delay="150" class="fa fa-plus"></i>带宽：CN2 3Mbps</li>
+									<li><i data-aos="zoom-in" data-aos-delay="200" class="fa fa-plus"></i>IP数：1个</li>
+								</ul>
+							</div>
+							<div class="buttons">
+								<a href="https://my.mfisp.com/cart.php?a=add&amp;pid=199" class="btn btn-gray btn-medium">立即购买</a>
+							</div>
+						</div>
+					</div>
+				</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<div class="price">￥700 元/月</div>
+					<div class="table mobile-margin-bottom">
+						<div class="table-content">
+							<h4 title="新加坡VPS主机-SGVPS04">SGVPS04</h4>
+							<div class="table-list">
+								<ul>
+									<li><i data-aos="zoom-in" class="fa fa-plus"></i>机房：新加坡vps</li>
+									<li><i data-aos="zoom-in" class="fa fa-plus"></i>CPU：vCPUs 8</li>
+									<li><i data-aos="zoom-in" data-aos-delay="50" class="fa fa-plus"></i>内存：8GB</li>
+									<li><i data-aos="zoom-in" data-aos-delay="100" class="fa fa-plus"></i>硬盘：240GB</li>
+									<li><i data-aos="zoom-in" data-aos-delay="150" class="fa fa-plus"></i>带宽：每月4TB流量</li>
+									<li><i data-aos="zoom-in" data-aos-delay="200" class="fa fa-plus"></i>IP数：1个</li>
+								</ul>
+							</div>
+							<div class="buttons">
+								<a href="https://my.mfisp.com/cart.php?a=add&amp;pid=778" class="btn btn-gray btn-medium">立即购买</a>
+							</div>
+						</div>
+					</div>
+				</div>
+<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<div class="price">￥650 元/月</div>
+					<div class="table mobile-margin-bottom">
+						<div class="table-content">
+							<h4 title="美国云服务器-USKTVP0808A">USKTVP0808A</h4>
+							<div class="table-list">
+								<ul>
+									<li><i data-aos="zoom-in" class="fa fa-plus"></i>机房：美国vps</li>
+									<li><i data-aos="zoom-in" class="fa fa-plus"></i>CPU：8vCPU</li>
+									<li><i data-aos="zoom-in" data-aos-delay="50" class="fa fa-plus"></i>内存：8GB</li>
+									<li><i data-aos="zoom-in" data-aos-delay="100" class="fa fa-plus"></i>硬盘：240GB</li>
+									<li><i data-aos="zoom-in" data-aos-delay="150" class="fa fa-plus"></i>带宽：每月5TB流量</li>
+									<li><i data-aos="zoom-in" data-aos-delay="200" class="fa fa-plus"></i>IP数：1个IP</li>
+								</ul>
+							</div>
+							<div class="buttons">
+								<a href="https://my.mfisp.com/cart.php?a=add&amp;pid=135" class="btn btn-gray btn-medium">立即购买</a>
+							</div>
+						</div>
+					</div>
+				</div>-->
+
+			</div>
+		</div>
+	</div>
+	<!-- 云服务器 end -->
+	
+	
+	<!-- 免费服务 start -->
+	
+	
+	<!-- 关于我们1 start -->
+	
+	<!-- 关于我们2 one -->
+	<!--<div class="boxes-one custom-padding white-bg padding-bottom50">
+		<div class="custom-width">
+			<div class="row">
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<div class="box">
+						<img data-aos="zoom-in" src="img/6.png" class="img-responsive img-center" alt="Hosting">
+						<h4>24/7 售后支持</h4>
+						<p>400服务热线/企业QQ咨询/服务单系统，多渠道沟通，3分钟快速响应</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<div class="box">
+						<img data-aos="zoom-in" data-aos-delay="100" src="img/7.png" class="img-responsive img-center" alt="Hosting">
+						<h4>无限工单响应</h4>
+						<p>您可以在后台发布技术/财务等工单，技术人员将随时更新您的回复</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<div class="box">
+						<img data-aos="zoom-in" data-aos-delay="200" src="img/8.png" class="img-responsive img-center" alt="Hosting">
+						<h4>快速上手</h4>
+						<p>服务器免费安装系统，交付之后即可部署，傻瓜式操作</p>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-6 col-xs-12">
+					<div class="box">
+						<img data-aos="zoom-in" data-aos-delay="300" src="img/4.png" class="img-responsive img-center" alt="Hosting">
+						<h4>专属客服</h4>
+						<p>一对一专属客服全程配合您的需求，享受真正的VIP服务</p>
+					</div>
+				</div>
+			</div>
+		</div>-->
+	</div>
+	
+	
+	
+	
+	
+	
+
+
+
+
+<script src="js/jquery.js"></script>
+<script src="js/validator.js"></script>
+<script src="js/contact.js"></script>
+<script src="js/bootsnav.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/aos.js"></script>
+<script src="js/custom.js"></script>
+<script src="js/joker.js"></script>
+
+
+<!-- 头条推送 -->
+<script>
+	(function(){
+	var el = document.createElement("script");
+	el.src = "https://sf1-scmcdn-tos.pstatp.com/goofy/ttzz/push.js?5be61ce91812eb8244ff7e0d094e7101ff087aaa26673ed8cf5973fb3bb45c0dd4439752dca035e4fffcd2bffa18d62d992f9f07b9877aa594954d86706cf79c";
+	el.id = "ttzz";
+	var s = document.getElementsByTagName("script")[0];
+	s.parentNode.insertBefore(el, s);
+	})(window)
+</script>
+
+<!-- 360推送 -->
+<script>
+(function(){
+var src = "https://s.ssl.qhres2.com/ssl/ab77b6ea7f3fbf79.js";
+document.write('<script src="' + src + '" id="sozz"><\/script>');
+})();
+</script>
+
+
+</body></html>
